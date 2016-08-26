@@ -1,6 +1,11 @@
 CHE---->08/26/16
 -----------------
 
+Brief:
+PEMDAS
+Scientific Notation
+Significant Figures
+
 watched 'Raccoon eats cotton candy in the end!
 
 Chemistry goal: Understanding how elements interact
@@ -26,3 +31,33 @@ sci.not. ex#2:
 
   0.00316 = 3.16*10^-3
 /////////////////////////////////
+
+Significant Figures:
+
+#--Any non-zero number is significant
+#--Any zero between numbers is significant
+#--Any zero before a number is not significant
+#--Any zero after a number with a decimal involved is significant
+  Examples:
+  --------------------
+    830       ->    2 sig fig's
+    830.      ->    3 sig fig's
+    8342      ->    4 sig fig's
+    8032      ->    4 sig fig's
+    0.00316   ->    3 sig fig's
+    0.003160  ->    4 sig fig's
+
+
+527           ->  3 sig fig's  ->  5.27*10^2
+507           ->  3 sig fig's  ->  5.07*10^2
+0.0507        ->  3 sig fig's  ->  5.07*10^-2
+!#--0.05070   ->  3 sig fig's  ->  5.070*10^-2
+
+
+
+
+
+
+
+Chemistry- a molecular approach(4 chapters taken from this)
+Author: Tro
