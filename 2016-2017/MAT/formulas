@@ -1,0 +1,15 @@
+Formulas:
+
+Complex Numbers:
+-----------------   
+General info:
+    i^2 = -1
+
+Equality of Complex Numbers:
+    a+bi = c+di if & only if a = c & b = d
+  
+Sum of complex numbers:
+    (a+bi) + (c+di) = (a+c) + (b+d)i
+  
+Difference of complex numbers:
+    (a+bi) - (c+di) = (a-c) + (b-d)i
