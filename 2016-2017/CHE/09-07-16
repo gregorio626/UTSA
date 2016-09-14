@@ -1,0 +1,26 @@
+CHE---->09/07/16
+-----------------
+Exact numbers have an unlimited number of sig figs
+
+
+-If the number is followed by a noun, it is an exact number
+-conversion factors between systems have normal sig fig rules
+-conversion factors within systems have unlimited number of sig figs
+
+
+74621 in. = ?ft.?
+
+74621/12 = 6218.416666667 ft. = 6.2184*E^3
+
+2444256 = 2.44*E^6
+
+
+
+a car travels at 4220 ft. / min. how fast is that im mph? (3.281ft/m)
+  60 min | 4.220ft |     m
+      hr |     min  |      3.281 ft.  = 77171.59 mph = 7.72*E^4
+
+
+
+
+      squaring or cubing numbers

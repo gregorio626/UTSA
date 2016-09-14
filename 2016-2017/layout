@@ -1,0 +1,24 @@
+templates:
+          inc_:
+                header.php
+                footer.php
+          
+classes:
+        Articles.php
+        Messages.php
+        Users.php
+ css:
+      style.css
+      animate.css
+images:
+        various
+assets:
+        font-awesome
+        bootstrap 4
+admin:
+        admin.php
+        newArticle.php
+        editArticle.php
+        deleteArticle.php
+        newUser.php
+        modifyUser.php
